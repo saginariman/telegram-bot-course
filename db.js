@@ -10,13 +10,3 @@ module.exports = new Sequelize(
         dialect: 'postgres'
     }
 )
-// module.exports = new Sequelize(
-//     'f0497377_nari',
-//     'f0497377',
-//     'ivkivieric',
-//     {
-//         host: 'localhost',
-//         port: '3306',
-//         dialect: 'mysql'
-//     }
-// )
